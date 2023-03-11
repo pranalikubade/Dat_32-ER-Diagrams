@@ -1,0 +1,1 @@
+select count(state) from AddressBook group by state;

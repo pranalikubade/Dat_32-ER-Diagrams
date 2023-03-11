@@ -1,0 +1,1 @@
+select * from AddressBook where state = 'Punjab' or city = 'Nagpur';

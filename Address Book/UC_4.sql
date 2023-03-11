@@ -1,0 +1,1 @@
+update AddressBook set city = 'Nagpur' where firstName = 'Kartik';
